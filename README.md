@@ -7,9 +7,17 @@ L'école Gustave Eiffel est fière d'annoncer le lancement de son projet de vent
 
 # I-L'Application mobile:
 Pour répondre aux objectifs de l'application mobile, il est crucial que son utilisation soit simple et intuitive pour les élèves. C'est pour cette raison que le design du site a été soigneusement réfléchi, en mettant l'accent sur la simplicité et l'ergonomie, afin de garantir une expérience simple et rapide pour les étudiants.
-# splash
+# Splash
 Cette première interface représente un écran de chargement qui précède la page de connexion pour les élèves:
+<p align="center">
 <img width="232" alt="1" src="https://github.com/ARTEUXE/APP-MOBILE-MIELUX/assets/100758418/63676068-023d-4fe1-8a15-8f3152fef0e8">
+</p>
+
+# Connexion
+Sur cette interface, les élèves pourront se connecter avec leur nom en tant qu'identifiant (login) et le mot de passe qui leur a été donné par le directeur:
+<p align="center">
+<img width="224" alt="2" src="https://github.com/ARTEUXE/APP-MOBILE-MIELUX/assets/100758418/4dcff49d-9282-417d-b450-bf7ae12ea3f8">
+</p>
 
 # II-Details des commandes:
 C'est sur cette page que le directeur pourra consulter toutes les commandes en cours, afin d'acheter auprès des apiculteurs les miels commandés par les voisins des élèves:
