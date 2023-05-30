@@ -19,7 +19,22 @@ Sur cette interface, les élèves pourront se connecter avec leur nom en tant qu
 <img width="224" alt="2" src="https://github.com/ARTEUXE/APP-MOBILE-MIELUX/assets/100758418/4dcff49d-9282-417d-b450-bf7ae12ea3f8">
 </p>
 
-# II-Details des commandes:
-C'est sur cette page que le directeur pourra consulter toutes les commandes en cours, afin d'acheter auprès des apiculteurs les miels commandés par les voisins des élèves:
+# Commande
+l'activity commande est l'interface sur laquelle les eleves vont prendre les commandes de leur clients: 
+<p align="center">
+  <img width="226" alt="3" src="https://github.com/ARTEUXE/APP-MOBILE-MIELUX/assets/100758418/a47b058c-fa43-41a3-a124-962d90e3e7be">
 
-<img width="579" alt="detailCommandes2" src="https://github.com/ARTEUXE/APP-MOBILE-MIELUX/assets/100758418/66fd4b8e-17a1-428a-b662-02dc04a0d044">
+</p>
+
+
+# Panier
+il est possible d'ajouter au panier ou envoyer directement la commande. Dans le cas de consultation du panier , l'interface du panier se presente ainsi : les miels et leur quantitées respectives en face:
+<p align="center">
+ <img width="223" alt="4" src="https://github.com/ARTEUXE/APP-MOBILE-MIELUX/assets/100758418/4049a598-7def-4fe6-a4ef-87d87ab1a316">
+</p>
+
+# II-Details des commandes:
+C'est sur cette page que le directeur pourra consulter toutes les commandes en cours, afin d'acheter auprès des apiculteurs les miels commandés par les voisins des élèves, il pourra observer un tableau avec les noms des miels et leurs quantités dans le tableau (non complet sur l'image):
+<p>
+ <img width="579"  src="https://github.com/ARTEUXE/APP-MOBILE-MIELUX/assets/100758418/90cf291b-0a16-4e5e-aead-a2d1e541a03d)">
+</p>
